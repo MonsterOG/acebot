@@ -1,1 +1,1 @@
-eyzalts: node main.js
+eyzalts: nodemon main.js
