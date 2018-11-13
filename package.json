@@ -1,0 +1,15 @@
+{
+  "name": "universal",
+  "version": "1.0.0",
+  "description": "Universal Discord Bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "OreosOG",
+  "license": "ISC",
+  "dependencies": {
+    "discord": "^0.8.2",
+    "discord.js": "^11.3.2"
+  }
+}
